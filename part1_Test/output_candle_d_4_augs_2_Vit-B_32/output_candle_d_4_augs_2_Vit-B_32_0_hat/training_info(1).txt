@@ -1,0 +1,3 @@
+For iteration 0... Prompt: A 3D render of a gray candle with highlighted hat, Last 100 avg CLIP score: 0.360595703125, CLIP score 0.360595703125
+For iteration 100... Prompt: A 3D render of a gray candle with highlighted hat, Last 100 avg CLIP score: 0.3184814453125, CLIP score 0.336181640625
+For iteration 200... Prompt: A 3D render of a gray candle with highlighted hat, Last 100 avg CLIP score: 0.3120703125, CLIP score 0.307861328125
