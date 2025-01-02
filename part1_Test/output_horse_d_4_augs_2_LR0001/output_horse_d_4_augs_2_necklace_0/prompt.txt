@@ -1,0 +1,6 @@
+A 3D render of a gray horse with highlighted necklace
+initial learning rate:0.0001
+n_iter:2500
+n_augs:2
+clip_model:ViT-L/14
+depth:4
